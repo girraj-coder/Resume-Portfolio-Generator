@@ -1,0 +1,33 @@
+Priya Sharma
+Full Stack Web Developer
+Email: priya.sharma.dev@email.com | Phone: (555) 123-4567 | LinkedIn: linkedin.com/in/priyacodes | GitHub: github.com/priyasharma
+
+Creative and detail-oriented Full Stack Developer with 4 years of experience building responsive, user-friendly web applications. Passionate about writing clean code and improving UI/UX experiences.
+
+Skills: JavaScript, React, Node.js, Python, HTML5, Tailwind CSS, MongoDB, Git, Docker.
+
+Education:
+B.Tech in Computer Engineering, National Institute of Technology, 2018-2022
+
+Experience:
+Software Engineer at InnovateTech (August 2022 - Present)
+- Developed and maintained scalable web applications using React and Node.js.
+- Reduced website load time by 30% through image optimization and code splitting.
+- Collaborated with the design team to implement modern, accessible user interfaces.
+
+Web Development Intern at StartUp Hub (Jan 2022 - July 2022)
+- Built interactive landing pages using HTML, CSS, and JavaScript.
+- Assisted in migrating the company database to MongoDB.
+
+Projects:
+SmartCart E-commerce
+- A full-stack online grocery store featuring user authentication and a Stripe payment gateway.
+- Technologies: React, Node.js, Express, MongoDB.
+
+Weather Dashboard App
+- A live weather tracking application using the OpenWeather API to display 5-day forecasts.
+- Technologies: JavaScript, HTML, CSS, REST APIs.
+
+Achievements:
+- 1st Place Winner at the Global Tech Hackathon 2023.
+- AWS Certified Cloud Practitioner (2024).
